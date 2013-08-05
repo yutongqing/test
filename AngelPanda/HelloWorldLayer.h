@@ -5,7 +5,7 @@
 //  Created by Yu on 7/18/13.
 //  Copyright Yu 2013. All rights reserved.
 //
-//test
+
 
 #import <GameKit/GameKit.h>
 
